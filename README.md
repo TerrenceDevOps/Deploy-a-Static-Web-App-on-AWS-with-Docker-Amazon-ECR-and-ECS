@@ -6,6 +6,7 @@
 This project demonstrates the deployment of a static web application on **AWS** using **Docker, Amazon Elastic Container Registry (ECR), and Amazon Elastic Container Service (ECS)**. The web application is containerized and hosted on AWS infrastructure, leveraging key AWS services for scalability and reliability.  
 
 ## **Architecture**  
+![Alt text](/5._Host_a_Dynamic_Web_App_on_AWS_with_Kubernetes_and_Amazon_EKS.png)
 The deployment follows a **three-tier architecture**, as illustrated in the reference diagram. It includes:  
 
 - **Docker** for containerizing the application  
