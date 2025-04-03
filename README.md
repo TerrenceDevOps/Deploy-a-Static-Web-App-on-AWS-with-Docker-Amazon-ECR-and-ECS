@@ -100,6 +100,4 @@ ENTRYPOINT ["/usr/sbin/httpd", "-D", "FOREGROUND"]
 ## **Conclusion**  
 This project showcases the **containerization and deployment** of a static web app on AWS using **Docker, ECR, and ECS**. By leveraging **AWS services**, we ensure a **scalable, reliable, and secure** deployment.  
 
----
 
-Let me know if you want any modifications! 🚀
